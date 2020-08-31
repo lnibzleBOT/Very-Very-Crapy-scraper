@@ -1,0 +1,45 @@
+[0831/120459.353:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0831/120459.375:ERROR:exception_snapshot_win.cc(99)] thread ID 6580 not found in process
+[0831/120459.409:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0831/120459.409:ERROR:exception_snapshot_win.cc(99)] thread ID 11136 not found in process
+[0831/120500.355:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0831/120500.408:ERROR:exception_snapshot_win.cc(99)] thread ID 6560 not found in process
+[0831/121155.526:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0831/121155.631:ERROR:exception_snapshot_win.cc(99)] thread ID 11040 not found in process
+[0831/121155.707:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0831/121155.707:ERROR:exception_snapshot_win.cc(99)] thread ID 9368 not found in process
+[0831/121155.741:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0831/121155.741:ERROR:exception_snapshot_win.cc(99)] thread ID 6172 not found in process
+[0831/121156.707:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0831/121156.707:ERROR:exception_snapshot_win.cc(99)] thread ID 10932 not found in process
+[0831/121325.178:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0831/121325.271:ERROR:exception_snapshot_win.cc(99)] thread ID 5520 not found in process
+[0831/121325.308:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0831/121325.308:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0831/121325.308:ERROR:exception_snapshot_win.cc(99)] thread ID 5664 not found in process
+[0831/121325.595:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0831/121325.595:ERROR:exception_snapshot_win.cc(99)] thread ID 6448 not found in process
+[0831/121600.476:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0831/121600.510:ERROR:exception_snapshot_win.cc(99)] thread ID 9012 not found in process
+[0831/121600.544:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0831/121600.544:ERROR:exception_snapshot_win.cc(99)] thread ID 10544 not found in process
+[0831/121600.871:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0831/121600.871:ERROR:exception_snapshot_win.cc(99)] thread ID 2432 not found in process
+[0831/121920.883:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0831/121920.918:ERROR:exception_snapshot_win.cc(99)] thread ID 8032 not found in process
+[0831/121920.973:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0831/121920.973:ERROR:exception_snapshot_win.cc(99)] thread ID 7244 not found in process
+[0831/121922.164:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0831/121922.165:ERROR:exception_snapshot_win.cc(99)] thread ID 8784 not found in process
+[0831/125230.783:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0831/125230.834:ERROR:exception_snapshot_win.cc(99)] thread ID 10012 not found in process
+[0831/125230.864:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0831/125230.864:ERROR:exception_snapshot_win.cc(99)] thread ID 8560 not found in process
+[0831/125231.284:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0831/125231.284:ERROR:exception_snapshot_win.cc(99)] thread ID 5740 not found in process
+[0831/125635.062:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0831/125635.091:ERROR:exception_snapshot_win.cc(99)] thread ID 2592 not found in process
+[0831/125635.091:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0831/130309.669:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0831/130310.036:ERROR:exception_snapshot_win.cc(99)] thread ID 3552 not found in process
+[0831/130310.036:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
